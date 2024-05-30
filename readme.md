@@ -1,8 +1,8 @@
-### 📕 Tutorial : Webinar Aktu AI & ML & DL
+## Tutorial : Webinar Aktu AI ML DL
 
 > Study material related to this webinar
 
-#### 📁 Directory Structure
+### Folder Structure
 
 ```
 root
@@ -10,6 +10,6 @@ root
 ├── notes
 ```
 
-#### 🔑 License
+### License
 
 MIT License
