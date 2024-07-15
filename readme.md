@@ -6,8 +6,8 @@
 
 ```
 root
-├── code
-├── notes
+├─── code
+└─── notes
 ```
 
 ### License
