@@ -12,4 +12,4 @@ root
 
 ### License
 
-MIT License
+[MIT License](license)
